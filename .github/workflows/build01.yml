@@ -1,4 +1,4 @@
-ame: Simple Local
+name: Simple Local
 on: push
 jobs:
    build-node:
